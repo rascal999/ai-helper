@@ -1,0 +1,35 @@
+Please analyze the following for regulatory compliance and provide a detailed assessment focusing on fintech security requirements:
+
+$query
+
+Provide a comprehensive compliance analysis including:
+
+1. Regulatory Framework Assessment:
+   - PCI DSS requirements
+   - SOX compliance implications
+   - GDPR/CCPA considerations
+   - Financial regulations (e.g., Basel III, Dodd-Frank)
+
+2. Compliance Gap Analysis:
+   - Current compliance status
+   - Identified gaps
+   - Risk level assessment
+   - Required controls
+
+3. Implementation Requirements:
+   - Technical controls needed
+   - Documentation requirements
+   - Audit trail considerations
+   - Data retention policies
+
+4. Security Controls Mapping:
+   - Mapping to ISO 27001
+   - NIST framework alignment
+   - Industry-specific standards
+   - Best practices implementation
+
+5. Compliance Maintenance:
+   - Monitoring requirements
+   - Regular assessment schedules
+   - Reporting requirements
+   - Update procedures

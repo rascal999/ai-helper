@@ -1,0 +1,9 @@
+Please provide a comprehensive yet concise summary of the following text:
+
+$query
+
+The summary should:
+1. Capture the main points and key arguments
+2. Maintain the original context and intent
+3. Be organized in a clear, logical structure
+4. Highlight any important conclusions or implications

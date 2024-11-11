@@ -1,0 +1,9 @@
+Please review the following code and provide suggestions for improvements, potential bugs, and best practices:
+
+$query
+
+Focus on:
+1. Code quality and readability
+2. Performance considerations
+3. Security implications
+4. Design patterns and architecture

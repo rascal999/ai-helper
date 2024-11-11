@@ -1,0 +1,11 @@
+Please provide a detailed technical explanation of the following concept or technology:
+
+$query
+
+Include:
+1. Core concepts and fundamental principles
+2. How it works under the hood
+3. Common use cases and practical applications
+4. Advantages and limitations
+5. Best practices and considerations
+6. Related technologies or alternatives

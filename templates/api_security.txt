@@ -1,0 +1,53 @@
+Please analyze the following API endpoint/implementation for security vulnerabilities and compliance with fintech security requirements:
+
+$query
+
+Provide a comprehensive API security analysis:
+
+1. Authentication & Authorization:
+   - Authentication mechanism review
+   - OAuth/JWT implementation
+   - Role-based access control
+   - API key management
+   - Session handling
+
+2. Data Protection:
+   - Encryption in transit
+   - Sensitive data handling
+   - PCI DSS compliance
+   - Financial data protection
+   - PII handling
+
+3. Input Validation:
+   - Parameter validation
+   - Type checking
+   - Sanitization methods
+   - Business logic validation
+   - Transaction validation
+
+4. Rate Limiting & DDoS Protection:
+   - Rate limiting implementation
+   - Throttling mechanisms
+   - DDoS mitigation
+   - Resource consumption limits
+
+5. Security Headers & Configuration:
+   - CORS policy
+   - Content Security Policy
+   - Cache control
+   - Transport security
+   - API versioning security
+
+6. Monitoring & Logging:
+   - Audit trail requirements
+   - Transaction logging
+   - Error handling
+   - Alerting mechanisms
+   - Compliance logging
+
+7. Integration Security:
+   - Third-party integration risks
+   - Webhook security
+   - Callback validation
+   - API dependencies
+   - Service mesh security

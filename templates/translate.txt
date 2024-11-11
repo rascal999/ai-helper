@@ -1,0 +1,8 @@
+Please translate the following text to the specified language. Maintain the original meaning and tone while ensuring the translation is natural and culturally appropriate:
+
+Text to translate: $query
+
+Please provide:
+1. The translation
+2. Any relevant cultural notes or context
+3. Alternative translations if certain phrases have multiple interpretations

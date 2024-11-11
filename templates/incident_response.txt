@@ -1,0 +1,47 @@
+Please analyze the following security incident and provide a detailed incident response plan:
+
+$query
+
+Provide a comprehensive incident response analysis:
+
+1. Incident Classification:
+   - Severity level
+   - Attack type classification
+   - Potential impact on financial systems
+   - Data breach implications
+
+2. Immediate Response Actions:
+   - Containment strategies
+   - Evidence preservation steps
+   - System isolation procedures
+   - Communication protocols
+
+3. Investigation Process:
+   - Digital forensics requirements
+   - Log analysis priorities
+   - Chain of custody procedures
+   - Timeline reconstruction
+
+4. Financial Impact Assessment:
+   - Direct financial exposure
+   - Customer account impact
+   - Transaction system integrity
+   - Regulatory reporting requirements
+
+5. Recovery Plan:
+   - System restoration procedures
+   - Data validation requirements
+   - Service restoration priorities
+   - Customer communication strategy
+
+6. Post-Incident Actions:
+   - Root cause analysis
+   - Control enhancement recommendations
+   - Monitoring improvements
+   - Training requirements
+
+7. Regulatory Compliance:
+   - Mandatory reporting requirements
+   - Documentation needs
+   - Timeframe obligations
+   - Stakeholder notifications

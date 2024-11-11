@@ -1,0 +1,54 @@
+Please analyze the following financial system/data handling implementation for security and compliance:
+
+$query
+
+Provide a comprehensive financial security analysis:
+
+1. Data Classification & Handling:
+   - Financial data classification
+   - PII identification
+   - Cardholder data scope
+   - Account information handling
+   - Transaction data security
+
+2. Encryption Requirements:
+   - Encryption at rest
+   - Encryption in transit
+   - Key management
+   - HSM integration
+   - Cryptographic standards
+
+3. Access Control:
+   - Privileged access management
+   - Segregation of duties
+   - Treasury controls
+   - Multi-factor authentication
+   - Just-in-time access
+
+4. Transaction Security:
+   - Transaction signing
+   - Fraud detection
+   - Amount validation
+   - Reconciliation controls
+   - Anti-money laundering checks
+
+5. Audit & Compliance:
+   - Transaction logging
+   - Audit trail requirements
+   - Financial reporting controls
+   - Regulatory compliance
+   - SOX requirements
+
+6. Disaster Recovery:
+   - Business continuity
+   - Data backup procedures
+   - Recovery time objectives
+   - Financial data restoration
+   - System resilience
+
+7. Third-Party Risk:
+   - Vendor security assessment
+   - Payment processor security
+   - Banking interface security
+   - Service provider compliance
+   - Supply chain security
